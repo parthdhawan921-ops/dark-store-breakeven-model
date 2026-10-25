@@ -1,8 +1,10 @@
-# A4: Dark-store break-even model (Excel)
+# Swiggy Instamart dark-store break-even model (Excel)
 
 **Question:** How many orders a day does a quick-commerce dark store need to break even, and which lever (basket value, volume, ad income or rider cost) moves it furthest?
 
 **Answer:** At today's average order value (₹691) and cost structure, a Swiggy Instamart dark store breaks even at about **1,133 orders a day**, 5.4% above today's average of about 1,075. A 10% rise in average order value (about ₹69) adds roughly ₹2.4 lakh of contribution per store per month, about ₹85 crore a quarter across 1,171 stores, holding order volume constant.
+
+**Interactive case file:** [parthdhawan921-ops.github.io/Parth_Personal/#darkstore](https://parthdhawan921-ops.github.io/Parth_Personal/#darkstore)
 
 ## Key findings
 
