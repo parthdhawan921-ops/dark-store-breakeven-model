@@ -6,7 +6,7 @@
 - **What I found:** **A store needs about 1,133 orders a day to break even**, 5.4% more than today's ~1,075.
 - **Why it matters:** Bigger baskets beat more orders: a 10% bigger basket adds about ₹85 crore a quarter across 1,171 stores.
 
-**Interactive case file:** [parthdhawan921-ops.github.io/Parth_Personal/#darkstore](https://parthdhawan921-ops.github.io/Parth_Personal/#darkstore)
+**Interactive case file:** [parthdhawan921-ops.github.io/Parth_Personal/#darkstore](https://parthdhawan921-ops.github.io/Parth_Personal/#darkstore) · **[🎞️ 10-slide presentation](presentation/Dark_Store_Break_Even.pdf)** ([PowerPoint](presentation/Dark_Store_Break_Even.pptx))
 
 ## Key findings
 
